@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShareFiles</string>
+    <string name="share_files_with_dialog">Share files with dialog</string>
+    <string name="share_files">Share files</string>
+    <string name="share_image_video_pdf_files">Share image/video/pdf files</string>
+    <string name="share_image_file">Share an image file</string>
+    <string name="share_video_file">Share a video file</string>
+    <string name="share_pdf_file">Share a pdf file</string>
+
+</resources>
